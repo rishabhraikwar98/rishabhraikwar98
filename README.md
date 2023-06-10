@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhraikwar98&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhraikwar98" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 👯 I’m looking to collaborate on **FrontEnd Projects**
 
-- 💬 Ask me about **React,Node,Js**
+- 💬 Ask me about **React, React Native, Mongo DB, Express Js, NodeJs**
 
 - 📫 How to reach me **Rishabhraikwar77@gmail.com**
 
