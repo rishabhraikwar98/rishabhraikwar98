@@ -6,7 +6,7 @@
 
 - 🌱 I’m a **MERN Stack Developer**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on ** Fullstack/Frontend Projects**
 
 - 💬 Ask me about **React, React Native, Mongo DB, Express Js, NodeJs**
 
