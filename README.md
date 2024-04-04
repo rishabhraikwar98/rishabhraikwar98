@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Web Developer | React.js | Node.js | MongoDB | Express.js | MERN Stack 🚀
 
-Welcome to my profile! I'm Rishabh Raikwar, a seasoned full-stack web developer with a passion for crafting exceptional digital experiences. With [X years/months] of hands-on experience in the industry, I bring a wealth of expertise in front-end and back-end development, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+Welcome to my profile! I'm Rishabh Raikwar, a seasoned full-stack web developer with a passion for crafting exceptional digital experiences. With 2years of hands-on experience in the industry, I bring a wealth of expertise in front-end and back-end development, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
 👨‍💻 Technical Expertise:
 - Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
